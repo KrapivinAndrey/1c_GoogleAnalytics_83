@@ -1,0 +1,3 @@
+[submodule "vendor/vanessa-behavior"]
+	path = vendor/vanessa-behavior
+	url = https://github.com/silverbulleters/vanessa-behavior.git
