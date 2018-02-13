@@ -4,7 +4,7 @@
 {0,1,0},
 {0},1,
 {21,
-{-1,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,9,"ФормаКоманднаяПанель",
+{-1,02023637-7868-4a5f-8576-835a76e0c9ba},0,0,0,9,"",
 {1,0},
 {1,0},0,1,0,0,0,2,2,
 {3,4,
@@ -43,12 +43,7 @@
 {0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
 },0,1,2,
 {1,
-{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},1,"",0,0,0,0,0,0,3,3,0,0,0,100,1,1,0},"&НаКлиенте
-Перем СоедниениеGA; //HTTP Соедниение с google-analytics
-
-
-
-",
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},1,"",0,0,0,0,0,0,3,3,0,0,0,100,1,1,0},"",
 {4,1,
 {9,
 {1},0,"Объект",
@@ -80,8 +75,7 @@ Oi8vdjguMWMucnUvOC4xL2RhdGEvdWkiIHhtbG5zOndlYj0iaHR0cDovL3Y4LjFj
 LnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93ZWIiIHhtbG5zOndpbj0iaHR0cDovL3Y4
 LjFjLnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93aW5kb3dzIiB4bWxuczp4cz0iaHR0
 cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDov
-L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiPg0KCTxvdXRwdXRQ
-YXJhbWV0ZXJzLz4NCjwvU2V0dGluZ3M+}
+L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
 },
 {0,0},
 {0,0},
