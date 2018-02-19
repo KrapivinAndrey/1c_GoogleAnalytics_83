@@ -1,2 +1,2 @@
-﻿Form\GoogleAnalytics\Форма.bsl-->9d5d77c1-4d86-4497-93cc-c638723e6f8d.0 (46, 275)
-Form\ОсновнаяФорма\Форма.bsl-->779ef598-d8fc-4cac-9978-11ea9d0e6a00.0 (46, 46)
+﻿Form\GoogleAnalytics\Форма.bsl-->9d5d77c1-4d86-4497-93cc-c638723e6f8d.0 (46, 310)
+Form\ОсновнаяФорма\Форма.bsl-->779ef598-d8fc-4cac-9978-11ea9d0e6a00.0 (46, 71)
