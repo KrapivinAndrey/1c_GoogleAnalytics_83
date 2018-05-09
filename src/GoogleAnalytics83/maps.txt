@@ -1,3 +1,3 @@
-﻿Form\GoogleAnalytics\Форма.bsl-->9d5d77c1-4d86-4497-93cc-c638723e6f8d.0 (50, 500)
+﻿Form\GoogleAnalytics\Форма.bsl-->9d5d77c1-4d86-4497-93cc-c638723e6f8d.0 (50, 536)
 Form\ОсновнаяФорма\Форма.bsl-->779ef598-d8fc-4cac-9978-11ea9d0e6a00.0 (96, 136)
 Макеты\ДополнительныеПараметры.mxl-->1dcb6365-8396-44d0-bc0f-30796bf9da2c.0
